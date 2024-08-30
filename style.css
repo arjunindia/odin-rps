@@ -1,0 +1,11 @@
+body {
+    background: #efefef;
+    display: grid;
+    place-items: center;
+    height: 98vh;
+}
+
+button {
+    padding: 1em 3em;
+    font-size: 3em;
+}
